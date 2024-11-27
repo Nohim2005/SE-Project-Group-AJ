@@ -1,8 +1,7 @@
 Tasks
-1.	Draw a comprehensive use case diagram with use case narrations for the scenario. ✔
-2.	Draw a complete class diagram. ✔
-3.	Propose an eligible sequence diagram for a selected use case, mapping with the class diagram. ❌
-4.	ER diagram. ❌
+1.	Draw a comprehensive use case diagram with use case narrations for the scenario. ✔️
+2.	Draw a complete class diagram. ✔️
+3.	Propose an eligible sequence diagram for a selected use case, mapping with the class diagram. ❌ 
 5.	Develop a sophisticated website using Servlet / JSP technologies. ❌
 6.	Integrate SMS or Emailing facility to improve the user experience of the system. ❌
 7.	Configure payment handling via PayPal Sandbox configuration or via any other applicable alternative. ❌
@@ -11,7 +10,7 @@ a.	Introduction to the scenario ❌
 b.	Identified processes in ABC cinema ❌
 c.	Use case diagram ✔️
 d.	Class diagram ✔️
-e.	Sequence diagram for a selected use case ❌
-f.	ER diagram ❌
+e.	Sequence diagram for a selected use case ✔️
+f.	ER diagram ✔️
 g.	Samples of developed system (screenshots) with explanation of the functionality. ❌
 h.	References ❌
